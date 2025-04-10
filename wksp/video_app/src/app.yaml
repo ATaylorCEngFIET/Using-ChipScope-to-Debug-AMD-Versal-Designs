@@ -1,0 +1,4 @@
+domain_path: /media/data_hdd/Adam_Projects/VE100_MIPI/wksp/vitis_base/export/vitis_base/sw/standalone_psv_cortexa72_0
+app_src_dir: /tools/Xilinx/Vitis/2024.2/data/embeddedsw/lib/sw_apps/hello_world
+template: hello_world
+lang: c
